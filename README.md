@@ -1,0 +1,2 @@
+# slidingLoader
+Loader Animation
